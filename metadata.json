@@ -1,0 +1,5 @@
+{
+  "name": "Copy of B2SRGB",
+  "description": "ອິນເຕີເຟດຜ່ານເວັບສຳລັບຄວບຄຸມໄຟ RGB ທີ່ເຊື່ອມຕໍ່ກັບ ESP32. ຜູ້ໃຊ້ສາມາດເລືອກສີ, ສ້າງຮູບແບບທີ່ກຳນົດເອງ, ແລະ ອັບເດດ Firmware ຂອງອຸປະກອນຜ່ານ Wi-Fi (OTA) ໄດ້.",
+  "requestFramePermissions": []
+}
